@@ -4,6 +4,6 @@ Generates ascii lines in the terminal based on the given cooridnates in the scri
 node main.js
 ``` 
 # Dependencies
-Nodejs 
+- Nodejs 
 # References
-https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm
+- https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm
