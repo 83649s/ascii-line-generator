@@ -11,6 +11,6 @@ Then start the webserver
 ```
 flask run
 ``` 
-Then if you go to ```http://127.0.0.1:5000``` in your web browser.
+Then go to ```http://127.0.0.1:5000``` in your web browser to interact with the web application.
 # References
 - https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm
