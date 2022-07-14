@@ -1,4 +1,4 @@
-# ascii-line-generator
+# Ascii Line Generator
 Generates ascii lines based on the given points on a self hosted web server application.
 # Dependencies
 - python3
