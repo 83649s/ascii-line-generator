@@ -2,7 +2,7 @@
 Generates ascii lines based on the given points on a self hosted web server application.
 # Dependencies
 - python3
-- # Installation
+# Installation
 To install the required python packages for the self hosted web server
 ```
 pip install -r requirements
