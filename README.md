@@ -1,9 +1,15 @@
 # ascii-line-generator
-Generates ascii lines in the terminal based on the given cooridnates in the script. Will only work with octant 0. It can be runn with nodejs by simply runnign the command in the projects directory.
-```
-node main.js
-``` 
+Generates ascii lines based on the given points on a self hosted web server application.
 # Dependencies
-- Nodejs 
+- python3
+- # Installation
+To install the required python packages for the self hosted web server
+```
+pip install -r requirements
+```
+Then start the webserver
+```
+flask run
+``` 
 # References
 - https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm
